@@ -1,2 +1,2 @@
 # AngularTutorial
- A Angular Tutorial mit Laurax
+ Angular Tutorial mit Laurax
